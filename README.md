@@ -1,2 +1,2 @@
 # PBrowser
-Bruh
+Browser for low end iDevices
